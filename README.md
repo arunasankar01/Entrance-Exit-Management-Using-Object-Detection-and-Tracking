@@ -13,6 +13,6 @@ The script entrance-exit-management.py is written in Python and uses various lib
 6. ***Caffe Model***: The script employs the MobileNet SSD model for object detection.
 
 ## Functionality
-1. ***Object*** Detection: Detects and tracks people in the video stream.
-2. ***Counting*** Movements: Tracks movements of people, determining if they move up or down within the frame.
+1. ***Object Detection***: Detects and tracks people in the video stream.
+2. ***Counting Movements***: Tracks movements of people, determining if they move up or down within the frame.
 3. ***Visualization***: Provides visual feedback with bounding boxes, centroids, and direction information on the processed video frames.
